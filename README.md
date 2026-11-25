@@ -38,16 +38,6 @@ A menu-driven, console-based attendance management application written in Java. 
 | Sort by percentage (Bubble Sort) | O(N^2 x D) |
 | Save / load file | O(N x D) |
 
-## How to Run
-
-Requirements: JDK 17 or later.
-
-```bash
-javac project.java
-java project
-```
-
-> The file must be named `project.java` because the class is named `project`.
 
 ## Menu
 
